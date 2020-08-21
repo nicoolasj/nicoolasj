@@ -3,7 +3,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/nicaraujo?label=Follow&style=social)](https://github.com/nicaraujo?tab=followers)
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Full Stack Web development | App development
+- 🌱 I’m currently learning Full Stack Web Development | App Development
 - 👯 I’m looking to collaborate on Web Development Projects<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything, I'll try to help you as much as I can
 <!-- - 📫 How to reach me: ... -->
