@@ -3,9 +3,9 @@
 [![GitHub Followers](https://img.shields.io/github/followers/nicaraujo?label=Follow&style=social)](https://github.com/nicaraujo?tab=followers)
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Python for Data Science and Machine Learning
-- 👯 I’m looking to collaborate on Python Projects!<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything, I'll try to help you as much as I can
+- 🌱 I’m currently learning Java for Android Development
+- 👯 I’m looking to collaborate on creating mobile apps for Android!<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about anything, I'll try to help you as much as I can :D
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -20,4 +20,5 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
 <code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<code><img height="20" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code> -->
