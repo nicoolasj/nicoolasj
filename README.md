@@ -1,4 +1,4 @@
-### Hey there I'm Nicolas 🤘
+### Hey there I'm Nicolas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 [![GitHub Followers](https://img.shields.io/github/followers/nicaraujo?label=Follow&style=social)](https://github.com/nicaraujo?tab=followers)
 
