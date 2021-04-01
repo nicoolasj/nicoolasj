@@ -1,25 +1,11 @@
-### Hey there I'm Nicolas   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h3 align="center">A passionate mobile developer from Brazil</h3>
 
-[![GitHub Followers](https://img.shields.io/github/followers/nicaraujo?label=Follow&style=social)](https://github.com/nicaraujo?tab=followers)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="nicaraujo" /> </p>
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Java and Kotlin for Android Development
-- 👯 I’m looking to collaborate on open source projects and creating mobile apps for Android!<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything, I'll try to help you as much as I can :D
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**Languages and Tools:**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nicolas-araujosj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolas-araujosj" height="30" width="40" /></a>
+</p>
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> -->
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-<code><img height="20" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
