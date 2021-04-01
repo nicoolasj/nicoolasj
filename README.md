@@ -1,6 +1,13 @@
+<h1 align="center">Hey there, I'm Nicolas 🖖</h1>
 <h3 align="center">A passionate mobile developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="nicaraujo" /> </p>
+
+- 🌱 I’m currently learning **Kotlin and Java development for Android**
+
+- 👯 I’m looking to collaborate on **mobile apps for Android**
+
+- 💬 Ask me about **Kotlin, Java, Android, I'll try to help as much as I can!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
