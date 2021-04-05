@@ -2,11 +2,11 @@
 <h3 align="center">A passionate mobile developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Kotlin and Java development for Android**
+- 🌱 I’m currently learning **Java development for Android**
 
 - 👯 I’m looking to collaborate on **mobile apps for Android**
 
-- 💬 Ask me about **Kotlin, Java, Android, I'll try to help as much as I can!**
+- 💬 Ask me about **Java, Android, I'll try to help as much as I can!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
