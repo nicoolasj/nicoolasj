@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/nicolas-araujosj" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618685926~hmac=334ab3d789e87887157ac1f054e31bf4" alt="nicolas-araujosj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nicaraujo" 
 target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg"
+src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"
  alt="nicaraujo" height="30" width="40" /></a>
 </p>
 
