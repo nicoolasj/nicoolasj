@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicolas-araujosj" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621339418~hmac=19fab6ddbb031f27be45d8c14e56f9ce" alt="nicolas-araujosj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nicolas-araujosj" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621339418~hmac=19fab6ddbb031f27be45d8c14e56f9ce" alt="nicolas-araujosj" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/nicaraujo" 
 target="blank"><img align="center" 
 src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"
