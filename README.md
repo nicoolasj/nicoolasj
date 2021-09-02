@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Kotlin and Java development for Android**
+- 🌱 I’m currently developing **for Android using Kotlin and Java**
 
 - 👯 I’m looking to collaborate on **mobile apps for Android**
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicolas-araujosj" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="nicolas-araujosj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nicolas-araujo-souza/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="nicolas-araujosj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nicaraujo" 
 target="blank"><img align="center" 
 src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"
