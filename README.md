@@ -1,11 +1,22 @@
 <h1 align="center">Hey, I'm Nicolas Araujo 👋</h1>
 <h3 align="center">Android Developer | Kotlin & Java Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=nicoolasj&show_icons=true&theme=radical&rank_icon=github" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicoolasj&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github-readme-stats.vercel.app/api?username=nicoolasj&show_icons=true&theme=transparent&rank_icon=github" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api?username=nicoolasj&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoolasj&layout=compact&theme=transparent" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoolasj&layout=compact&theme=transparent" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -48,13 +59,3 @@ Android Developer from Brazil, passionate about crafting scalable and maintainab
 </td>
 </tr>
 </table>
-
----
-
-### 📈 Top Languages
-
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoolasj&layout=compact&theme=radical" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoolasj&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
