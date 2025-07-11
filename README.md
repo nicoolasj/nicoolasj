@@ -33,7 +33,7 @@ Android Developer from Brazil, passionate about crafting scalable and maintainab
 - 💬 Let’s connect to chat about **Android, architecture**, or even **Mandarin learning tips**!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nicolas-araujo-souza/?locale=en_US" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-araujo-souza" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
